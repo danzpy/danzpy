@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Daniel (:</h1>
+<h1 align="center">Olá, me chamo Daniel</h1>
 <h3 align="center">Sou um Engenheiro de produção que ama tecnologia.</h3>
 
 - 🌱 Atualmente estou estudando **Python e C++**
