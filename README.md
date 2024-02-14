@@ -1,11 +1,11 @@
 <h1 align="center">Olá, me chamo Daniel</h1>
 <h3 align="center">Sou um Engenheiro de produção apaixonado por tecnologia.</h3>
 
-- 🌱 Atualmente estou estudando **Python e C++**
+- 🌱 Atualmente estou estudando **Python** e **C++**
 
 - 👨‍💻 Meus estudos podem ser acessados aqui [https://github.com/danzpy?tab=repositories](https://github.com/danzpy?tab=repositories)
 
-- 📫 Caso necessário, entre em contato comigo **daniel.leonssio@hotmail.com**
+- 📫 Caso necessário, entre em contato comigo no seguinte endereço de e-mail: **daniel.leonssio@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
