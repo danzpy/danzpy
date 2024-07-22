@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem-vindo!</h1>
 <h3 align="center">Sou um Engenheiro de produção apaixonado por tecnologia.</h3>
 
-- 🌱 Atualmente estou estudando **Python** e **C++**
+- 🌱 Atualmente estou estudando **Python**.
 
 - 👨‍💻 Meus estudos podem ser acessados aqui [https://github.com/danzpy?tab=repositories](https://github.com/danzpy?tab=repositories)
 
